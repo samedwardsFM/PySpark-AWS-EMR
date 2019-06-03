@@ -1,4 +1,4 @@
-# COMP5349 Assignment 2
+# PySpark AWS EMR
 ## Prerequisites
 - NLTK
 - Tensorflow
