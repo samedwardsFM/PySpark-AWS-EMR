@@ -6,7 +6,7 @@
 - Numpy
 - Anaconda
 ## Setting up AWS EMR
-We use a mater node (m5.2xlarge) and 2 slaves (m4.2xlarge). configration is included in `config.json` and boostrap script is included in `bootstrap.sh`. Modules used in EMR are:
+This code was run using a mater node (m5.2xlarge) and 2 slaves (m4.2xlarge). configration is included in `config.json` and boostrap script is included in `bootstrap.sh`. Modules used in EMR are:
 - Hadoop 2.8.5
 - Spark 2.4
 - Livy 0.5.0
